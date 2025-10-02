@@ -1,0 +1,10 @@
+C:\Users\Aluno\Desktop\Aula01-TecProg2\Aula01-TecProg2\bin\Debug\Aula01-TecProg2.exe.config
+C:\Users\Aluno\Desktop\Aula01-TecProg2\Aula01-TecProg2\bin\Debug\Aula01-TecProg2.exe
+C:\Users\Aluno\Desktop\Aula01-TecProg2\Aula01-TecProg2\bin\Debug\Aula01-TecProg2.pdb
+C:\Users\Aluno\Desktop\Aula01-TecProg2\Aula01-TecProg2\obj\Debug\Aula01-TecProg2.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Aula01-TecProg2\Aula01-TecProg2\obj\Debug\Aula01_TecProg2.Form1.resources
+C:\Users\Aluno\Desktop\Aula01-TecProg2\Aula01-TecProg2\obj\Debug\Aula01_TecProg2.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Aula01-TecProg2\Aula01-TecProg2\obj\Debug\Aula01-TecProg2.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Aula01-TecProg2\Aula01-TecProg2\obj\Debug\Aula01-TecProg2.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Aula01-TecProg2\Aula01-TecProg2\obj\Debug\Aula01-TecProg2.exe
+C:\Users\Aluno\Desktop\Aula01-TecProg2\Aula01-TecProg2\obj\Debug\Aula01-TecProg2.pdb
