@@ -23,3 +23,37 @@ Este é um projeto simples em C# utilizando Windows Forms, criado na aula de Té
 
 - C#
 - Windows Forms (.NET Framework)
+
+# Calculadora - Windows Forms - Aula02
+
+Este projeto é uma calculadora simples feita em C# com Windows Forms. Ela realiza operações básicas entre dois valores numéricos digitados pelo usuário.
+
+## Funcionalidades
+
+- Soma
+- Subtração
+- Multiplicação
+- Divisão
+- Cálculo de IMC (Índice de Massa Corporal)
+
+## Como usar
+
+1. Digite dois valores numéricos nos campos disponíveis.
+2. Clique no botão da operação desejada:
+   - **Somar**
+   - **Subtrair**
+   - **Multiplicar**
+   - **Dividir**
+   - **IMC** (valor1 = peso, valor2 = altura)
+3. O resultado será exibido no campo de resultado.
+
+## Estrutura
+
+- Interface feita com Windows Forms.
+- A lógica das operações está encapsulada na classe `Calculadora`.
+- A interface (`Form1`) instancia e utiliza essa classe para processar os cálculos.
+
+## Tecnologias
+
+- C#
+- Windows Forms (.NET Framework)
